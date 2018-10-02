@@ -32,7 +32,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_gravity="start"
-        android:background="#a8227117"
+        android:background="#a8385fb9"
         app:menu="@menu/mymenu" />
 
 
